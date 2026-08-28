@@ -5,6 +5,7 @@
 *A curated collection of research papers, datasets, tools, implementations, and learning resources related to Error Propagation in Multi-Step Agentic AI Workflows for Research Automation.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 </div>
@@ -193,3 +194,6 @@ Zhu, K., et al., 2025, arXiv
 > *A systematic audit verifying the existence, metadata accuracy, and claim-support entailment of the AI-generated references in the baseline paper.*
 
 ---
+## License
+
+This project is licensed under the CHANDRASHEKHAR License - see the https://www.youtube.com/watch?v=R_H-7CpWs-s file for details.
