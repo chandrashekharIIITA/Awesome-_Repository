@@ -1,5 +1,3 @@
-# Awesome-_Repository
-Error Propagation in Multi-Step Agentic AI Workflows for Research Automation
 <div align="center">
 
 # 🤖 Awesome Error Propagation in Agentic AI
@@ -49,12 +47,54 @@ Gridach, M., et al., 2025, arXiv
 [arXiv:2503.08979](https://arxiv.org/abs/2503.08979)
 > A comprehensive overview of agentic AI applications and existing challenges in research workflows.
 
-*(Add 3-4 more survey papers here)*
+**The Rise and Potential of Large Language Model Based Agents: A Survey**
+Xi, Z., et al., 2023, arXiv
+[arXiv:2309.07864](https://arxiv.org/abs/2309.07864)
+> Traces the development of language agents from cognitive models to AI algorithms, providing a unified framework consisting of brain, perception, and action modules.
+
+**A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application**
+Chen, S., et al., 2024, arXiv
+[arXiv:2412.17481](https://arxiv.org/abs/2412.17481)
+> Explores the coordination of intelligent agents in complex task-solving scenarios and highlights challenges related to scaling multi-agent systems.
+
+**A Comprehensive Survey of Hallucination in Large Language Models**
+Various Authors, 2025, arXiv
+[arXiv:2510.06265](https://arxiv.org/abs/2510.06265)
+> Analyzes the root causes of intrinsic and extrinsic hallucinations across the LLM development lifecycle and evaluates current mitigation techniques.
+
+**Multi-Agent Collaboration Mechanisms: A Survey of LLMs**
+Various Authors, 2025, arXiv
+[arXiv:2501.06322](https://arxiv.org/abs/2501.06322)
+> Investigates how multiple LLM-based agents communicate, coordinate, and recover from cascading reasoning failures during collaborative automation tasks.
 
 ---
 
 ## 🏛️ Foundational Papers
-*(Add 3-5 foundational papers here using the format above)*
+
+**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**
+Wei, J., et al., 2022, NeurIPS
+[arXiv:2201.11903](https://arxiv.org/abs/2201.11903)
+> Introduced the fundamental concept of prompting LLMs to generate intermediate reasoning steps, which serves as the baseline for tracking where logical errors originate.
+
+**ReAct: Synergizing Reasoning and Acting in Language Models**
+Yao, S., et al., 2022, ICLR
+[arXiv:2210.03629](https://arxiv.org/abs/2210.03629)
+> Established the foundational paradigm of interleaving reasoning traces with external tool actions to reduce hallucinations and ground AI behavior.
+
+**Toolformer: Language Models Can Teach Themselves to Use Tools**
+Schick, T., et al., 2023, NeurIPS
+[arXiv:2302.04761](https://arxiv.org/abs/2302.04761)
+> Demonstrated how language models can autonomously integrate external APIs via self-supervised learning, highlighting potential points of failure during automated tool execution.
+
+**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**
+Yao, S., et al., 2023, NeurIPS
+[arXiv:2305.10601](https://arxiv.org/abs/2305.10601)
+> Proposed an advanced reasoning framework that allows agents to explore multiple decision paths, self-evaluate, and gracefully backtrack from erroneous logical branches.
+
+**Reflexion: Language Agents with Verbal Reinforcement Learning**
+Shinn, N., et al., 2023, NeurIPS
+[arXiv:2303.11366](https://arxiv.org/abs/2303.11366)
+> Introduced a framework for agents to maintain episodic memory and reflect on past failures, providing a vital mechanism to break out of cascading error loops.
 
 ---
 
@@ -80,8 +120,6 @@ Zhu, K., et al., 2025, arXiv
 [arXiv:2509.25370](https://doi.org/10.48550/arxiv.2509.25370)
 > Proposes an AgentErrorTaxonomy and Debug framework to isolate root-cause errors and provide corrective feedback.
 
-*(Add more recent papers here to reach the 20 total requirement)*
-
 ---
 
 ## 📊 Datasets
@@ -97,18 +135,32 @@ Zhu, K., et al., 2025, arXiv
 
 ---
 
-## 🛠️ Tools and Libraries
-*(Add 5 frameworks here with brief descriptions and links. Example: LangChain, LangGraph, AutoGen)*
+## 🎓 Tutorials and Learning Resources
 
----
+**1. LLM Powered Autonomous Agents**
+* **Source:** Lilian Weng (OpenAI Applied Research)
+* **Link:** [View Post](https://lilianweng.github.io/posts/2023-06-23-agent/)
+* **Purpose:** A highly authoritative and comprehensive architectural breakdown of agent memory, planning, and tool use, highlighting how poor planning leads to unrecoverable errors.
 
-## 💻 GitHub Implementations
-*(Add 5 high-quality repository links here that implement error mitigation or multi-agent workflows)*
+**2. Building Effective Agents**
+* **Source:** Anthropic
+* **Link:** [View Documentation](https://www.anthropic.com/research/building-effective-agents)
+* **Purpose:** Official guidance and best practices for designing robust, production-ready agentic workflows that minimize hallucinations and handle failure modes gracefully.
 
----
+**3. AI Agents in LangGraph**
+* **Source:** DeepLearning.AI / LangChain
+* **Link:** [View Course](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+* **Purpose:** A structured, hands-on video course teaching developers how to build cyclical state machines that allow agents to pause, self-reflect, and recover from execution errors.
 
-## 🎓 Tutorials
-*(Add 5 learning resources, documentation links, or lectures here)*
+**4. Microsoft AutoGen Official Tutorials**
+* **Source:** Microsoft
+* **Link:** [View Tutorials](https://microsoft.github.io/autogen/docs/tutorial/introduction)
+* **Purpose:** Step-by-step technical guides on how to orchestrate multi-agent conversations, implement human-in-the-loop safeguards, and debug collaborative AI workflows.
+
+**5. Hugging Face Open-Source AI Agents Course**
+* **Source:** Hugging Face
+* **Link:** [View Course](https://huggingface.co/learn/agents-course/unit0/introduction)
+* **Purpose:** An open educational resource covering the fundamentals of how LLMs interact with external environments, execute tool calls, and navigate logical reasoning challenges.
 
 ---
 
@@ -118,6 +170,3 @@ Zhu, K., et al., 2025, arXiv
 > *A systematic audit verifying the existence, metadata accuracy, and claim-support entailment of the AI-generated references in the baseline paper.*
 
 ---
-
-## 📜 License
-This repository is licensed under the MIT License. See the `LICENSE` file for more information.
