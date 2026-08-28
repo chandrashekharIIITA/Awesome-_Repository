@@ -5,7 +5,6 @@
 *A curated collection of research papers, datasets, tools, implementations, and learning resources related to Error Propagation in Multi-Step Agentic AI Workflows for Research Automation.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 </div>
