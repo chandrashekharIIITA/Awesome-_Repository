@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Awesome Error Propagation in Agentic AI
+#  Awesome Error Propagation in Agentic AI
 
 *A curated collection of research papers, datasets, tools, implementations, and learning resources related to Error Propagation in Multi-Step Agentic AI Workflows for Research Automation.*
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📑 Contents
+##  Contents
 - [Overview](#-overview)
 - [AI-Assisted Research Paper](#-ai-assisted-research-paper)
 - [Survey Papers](#-survey-papers)
@@ -25,21 +25,21 @@
 
 ---
 
-## 🔎 Overview
+##  Overview
 > **Error propagation** in Large Language Model (LLM) agents occurs when a single faulty reasoning step, hallucinated tool call, or misinterpreted context cascades through a multi-step workflow, ultimately derailing autonomous tasks. 
 
 This repository systematically categorizes research on how these error cascades occur and curates the latest mitigation strategies—including uncertainty-aware denoising, reinforcement learning safeguards, and root-cause isolation frameworks. It serves as a verified knowledge base for developing reliable AI research automation.
 
 ---
 
-## 📄 AI-Assisted Research Paper
+##  AI-Assisted Research Paper
 **Error Propagation in Multi-Step Agentic AI Workflows for Research Automation**
 * [View Paper](paper/MNS2026003_Paper.pdf)
 > *An AI-generated baseline research paper exploring error cascades, complete with a systematic citation integrity audit.*
 
 ---
 
-## 📚 Survey Papers
+##  Survey Papers
 
 **Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**
 Gridach, M., et al., 2025, arXiv
@@ -68,7 +68,7 @@ Various Authors, 2025, arXiv
 
 ---
 
-## 🏛️ Foundational Papers
+##  Foundational Papers
 
 **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**
 Wei, J., et al., 2022, NeurIPS
@@ -97,7 +97,7 @@ Shinn, N., et al., 2023, NeurIPS
 
 ---
 
-## 🚀 Recent Research Papers
+##  Recent Research Papers
 
 **From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration**
 Xie, Y., et al., 2026, arXiv
@@ -121,7 +121,7 @@ Zhu, K., et al., 2025, arXiv
 
 ---
 
-## 📊 Datasets
+##  Datasets
 
 | Dataset Name | Source | Application | Link |
 | :--- | :--- | :--- | :--- |
@@ -134,7 +134,7 @@ Zhu, K., et al., 2025, arXiv
 
 ---
 
-## 🎓 Tutorials and Learning Resources
+##  Tutorials and Learning Resources
 
 **1. LLM Powered Autonomous Agents**
 * **Source:** Lilian Weng (OpenAI Applied Research)
@@ -163,7 +163,7 @@ Zhu, K., et al., 2025, arXiv
 
 ---
 
-## 🔍 Citation Integrity Audit
+##  Citation Integrity Audit
 **Lab 1: AI-Assisted Citation Integrity Audit**
 * [View Audit](citation-audit/Lab1_MNS2026003_ChandraShekharSahu.pdf)
 > *A systematic audit verifying the existence, metadata accuracy, and claim-support entailment of the AI-generated references in the baseline paper.*
