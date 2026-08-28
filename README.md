@@ -196,4 +196,4 @@ Zhu, K., et al., 2025, arXiv
 ---
 ## License
 
-This project is licensed under the CHANDRASHEKHAR License - see the https://www.youtube.com/watch?v=R_H-7CpWs-s file for details.
+This project is licensed under the CHANDRASHEKHAR License - see the [Licence](MIT) file for details.
