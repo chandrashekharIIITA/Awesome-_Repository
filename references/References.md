@@ -29,5 +29,5 @@
 *BibTeX:* `@article{yan2026denoiseflow, title={DenoiseFlow: Uncertainty-Aware Denoising for Reliable LLM Agentic Workflows}, author={Yan, Y. and Peng, J. and Li, S. and Li, C. and Shang, Y. and Deng, C. and Dai, R. and Zhao, Y. and Zhu, J. and Huang, Y.}, journal={arXiv preprint arXiv:2603.00532}, year={2026}}`
 
 
-* **[RL-Guard: Rescuing LLM Agents from Pitfalls](https://openreview.net/)** - Yang, Y. (2026). Proposes a proactive safety reinforcement learning framework. It utilizes a critic to monitor trajectories, an actor to select corrective actions, and a risk-conditioned safety reward model to provide dynamic, step-level feedback during execution.
-*BibTeX:* `@article{yang2026rlguard, title={RL-Guard: Rescuing LLM Agents from Pitfalls}, author={Yang, Y.}, journal={OpenReview}, year={2026}}`
+* **RL-Guard: Rescuing LLM Agents from Pitfalls** - Yang, Y. (2026). Proposes a proactive safety reinforcement learning framework. It utilizes a critic to monitor trajectories, an actor to select corrective actions, and a risk-conditioned safety reward model to provide dynamic, step-level feedback during execution.
+BibTeX: @article{yang2026rlguard, title={RL-Guard: Rescuing LLM Agents from Pitfalls}, author={Yang, Y.}, journal={OpenReview}, year={2026}, url={[https://openreview.net/forum?id=pe58lRVDsF](https://openreview.net/forum?id=pe58lRVDsF)}}
