@@ -35,7 +35,7 @@ This repository systematically categorizes research on how these error cascades 
 
 ##  AI-Assisted Research Paper
 **Error Propagation in Multi-Step Agentic AI Workflows for Research Automation**
-* [View Paper](paper/MNS2026003_Paper.pdf)
+* * [View Paper](https://github.com/chandrashekharIIITA/Awesome-_Repository/blob/main/paper/paper.pdf)
 > *An AI-generated baseline research paper exploring error cascades, complete with a systematic citation integrity audit.*
 
 ---
